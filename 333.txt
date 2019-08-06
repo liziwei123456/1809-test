@@ -1,2 +1,8 @@
 789+456123
 12345678
+git init
+git remote add origin https://
+git add .
+git commit -m "111"
+git push origin master
+ssh-keygen -t rsa -C '1290059628@qq.com
